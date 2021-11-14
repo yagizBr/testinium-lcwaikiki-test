@@ -1,0 +1,562 @@
+2021-11-14 03:15:16,100 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 03:15:19,763 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:15:22,400 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:15:26,425 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:15:27,961 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:15:29,853 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:15:41,479 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:15:43,661 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:15:46,150 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 03:49:06,557 ERROR [Log4j] isOnMainPage() HATA! Hata açıklaması : element click intercepted: Element is not clickable at point (363, 1120)
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52908}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 999549218fda2fc00d0600fe215a4e78 
+2021-11-14 03:49:10,405 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:49:12,592 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:49:16,627 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:49:18,113 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:49:20,025 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:49:31,385 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:49:33,607 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:49:36,164 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 03:51:00,924 ERROR [Log4j] isOnMainPage() HATA! Hata açıklaması : element click intercepted: Element is not clickable at point (363, 1120)
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:53109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 465ee4df253f634235e7de657b8b65a1 
+2021-11-14 03:51:04,759 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:51:06,037 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:51:10,053 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:51:11,609 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:51:13,753 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:51:25,461 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:51:27,627 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:51:30,076 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 03:53:11,866 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 03:53:20,456 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:53:23,258 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:53:27,316 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:53:28,928 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:53:31,907 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:53:44,877 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:53:47,053 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:53:49,885 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 03:56:51,587 ERROR [Log4j] isOnMainPage() HATA! Hata açıklaması : element click intercepted: Element is not clickable at point (1325, 1005)
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:53761}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 115249badc2568488593fd8e8f715463 
+2021-11-14 03:56:56,599 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:56:59,501 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:57:03,522 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:57:05,510 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:57:08,574 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:57:23,607 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:57:25,781 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:57:28,484 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 03:58:27,741 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 03:58:33,678 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 03:58:36,953 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 03:58:40,980 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 03:58:43,125 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 03:58:47,627 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 03:59:01,897 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 03:59:04,090 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 03:59:06,920 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:05:52,577 INFO  [Log4j] isOnMainPage() BAÅžARILI 
+2021-11-14 04:05:56,624 ERROR [Log4j] loginAccount() HATA! Hata aÃ§Ä±klamasÄ± : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='GiriÅŸ Yap']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:54399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 24ee71955542c041f891454582cd51b3
+*** Element info: {Using=xpath, value=//span[text()='GiriÅŸ Yap']} 
+2021-11-14 04:05:58,779 INFO  [Log4j] searchProducts() BAÅžARILI 
+2021-11-14 04:06:02,811 INFO  [Log4j] scrollProductsPage() BAÅžARILI 
+2021-11-14 04:06:03,892 INFO  [Log4j] showMoreProducts() BAÅžARILI 
+2021-11-14 04:06:06,786 INFO  [Log4j] chooseProduct() BAÅžARILI 
+2021-11-14 04:06:19,942 INFO  [Log4j] addToCartandCheck() BAÅžARILI 
+2021-11-14 04:06:22,107 INFO  [Log4j] checkQuantityIncreasement() BAÅžARILI 
+2021-11-14 04:06:24,567 INFO  [Log4j] deleteItemFromCartandCheck() BAÅžARILI 
+2021-11-14 04:07:04,765 INFO  [Log4j] isOnMainPage() BAÅžARILI 
+2021-11-14 04:07:08,843 ERROR [Log4j] loginAccount() HATA! Hata aÃ§Ä±klamasÄ± : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='GiriÅŸ Yap']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:54599}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34dc0d08e6869759263cd0cd5a8b10ba
+*** Element info: {Using=xpath, value=//span[text()='GiriÅŸ Yap']} 
+2021-11-14 04:07:10,427 INFO  [Log4j] searchProducts() BAÅžARILI 
+2021-11-14 04:07:14,468 INFO  [Log4j] scrollProductsPage() BAÅžARILI 
+2021-11-14 04:07:16,102 INFO  [Log4j] showMoreProducts() BAÅžARILI 
+2021-11-14 04:11:14,100 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:11:18,168 ERROR [Log4j] loginAccount() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='GiriÅŸ Yap']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:64414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4edb7220f926a3e3fbe6d3ad560be7e1
+*** Element info: {Using=xpath, value=//span[text()='GiriÅŸ Yap']} 
+2021-11-14 04:11:20,148 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:11:24,186 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:11:25,847 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:11:29,750 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:11:46,502 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:11:48,681 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:11:51,324 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:12:40,583 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:12:44,609 ERROR [Log4j] loginAccount() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='GiriÅŸ Yap']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:64684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: df4ac410d475ac206c46b59ea24c4881
+*** Element info: {Using=xpath, value=//span[text()='GiriÅŸ Yap']} 
+2021-11-14 04:12:46,288 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:12:50,333 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:12:52,099 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:12:55,276 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:13:10,667 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:13:12,851 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:13:15,553 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:21:33,130 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:21:37,173 ERROR [Log4j] loginAccount() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#header-user-section>div"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:64946}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8534ff959d96271d46f1140b15aad92f
+*** Element info: {Using=css selector, value=#header-user-section>div} 
+2021-11-14 04:21:39,527 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:21:43,566 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:21:45,017 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:21:48,202 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:22:03,251 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:22:05,420 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:22:08,446 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:23:00,762 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:23:04,824 ERROR [Log4j] loginAccount() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#header-user-section>.header-icon-label"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc956085868125cf4de5e11ab3363428
+*** Element info: {Using=css selector, value=#header-user-section>.header-icon-label} 
+2021-11-14 04:23:06,457 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:23:10,480 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:23:11,899 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:23:14,359 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:23:27,431 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:23:29,562 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:23:32,142 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:23:51,833 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:23:55,687 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:23:57,531 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:24:01,547 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:24:02,607 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:24:04,655 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:24:15,834 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:24:18,010 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:24:20,591 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:25:02,073 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:25:05,123 ERROR [Log4j] loginAccount() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#header-user-section > div:nth-child(2)"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e
+*** Element info: {Using=css selector, value=#header-user-section > div:nth-child(2)} 
+2021-11-14 04:25:08,551 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:25:12,598 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:25:13,679 ERROR [Log4j] showMoreProducts() HATA! Hata açıklaması : element click intercepted: Element <p class="lazy-load-text">...</p> is not clickable at point (926, 438). Other element would receive the click: <div style="width:17%">...</div>
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e 
+2021-11-14 04:25:14,796 ERROR [Log4j] chooseProduct() HATA! Hata açıklaması : element click intercepted: Element <div class="picture-box" data-optionid="2231941">...</div> is not clickable at point (1181, 84). Other element would receive the click: <div class="collapse navbar-collapse collapse-lcw-groups">...</div>
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e 
+2021-11-14 04:25:25,914 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-11-14 04:25:28,946 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:25:31,974 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:65389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3765537dbd74d839eb7591103a2bf20e
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:29:16,337 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:29:25,151 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:29:25,680 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:29:31,042 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:29:32,557 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:29:36,368 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:29:51,010 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:29:53,195 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:29:56,205 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:30:16,729 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:30:23,459 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:30:27,018 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:30:31,057 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:30:33,128 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:30:35,966 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:30:50,354 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 04:30:52,499 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 04:30:55,426 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 04:31:25,963 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:31:32,979 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:31:33,632 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:31:37,728 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:31:39,831 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:31:43,075 ERROR [Log4j] chooseProduct() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".div\[data\-optionid\'1769931\'\]"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c37f88c062e04c31b7efb4470e1fab6a
+*** Element info: {Using=class name, value=div[data-optionid'1769931']} 
+2021-11-14 04:31:54,178 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c37f88c062e04c31b7efb4470e1fab6a
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-11-14 04:31:57,231 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c37f88c062e04c31b7efb4470e1fab6a
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:32:00,305 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c37f88c062e04c31b7efb4470e1fab6a
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:32:23,028 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:32:26,691 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:32:27,967 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:32:31,996 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:32:33,320 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:32:36,543 ERROR [Log4j] chooseProduct() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".div\[data\-optionid\=\'1769931\'\]"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49741}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0aa493a5a7a2f15b99955d1885bbdbc4
+*** Element info: {Using=class name, value=div[data-optionid='1769931']} 
+2021-11-14 04:32:47,600 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49741}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0aa493a5a7a2f15b99955d1885bbdbc4
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-11-14 04:34:34,634 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:34:40,737 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:34:43,854 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:34:47,899 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:34:49,118 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:34:53,575 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:34:59,722 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50133}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59da86fe1fba182e2eb2274c28f4e094 
+2021-11-14 04:35:02,751 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50133}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59da86fe1fba182e2eb2274c28f4e094
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:35:05,767 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50133}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59da86fe1fba182e2eb2274c28f4e094
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:46:44,807 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:46:48,786 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:46:50,190 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:46:54,214 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:46:55,578 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:46:58,031 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:47:07,230 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: beeffe4abac38585729019e5f0351a63 
+2021-11-14 04:47:10,266 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: beeffe4abac38585729019e5f0351a63
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:47:13,310 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: beeffe4abac38585729019e5f0351a63
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:52:38,284 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:52:45,578 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:52:48,331 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:52:52,364 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:52:55,790 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:52:59,788 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:53:08,923 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e1aa1ee88bd5902ecd540a7a301c0b3 
+2021-11-14 04:53:11,996 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e1aa1ee88bd5902ecd540a7a301c0b3
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:53:15,025 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e1aa1ee88bd5902ecd540a7a301c0b3
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:54:55,230 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:55:00,479 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:55:02,587 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:55:06,633 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:55:07,971 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:55:10,886 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:55:20,060 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a9301c8d39f1f97c9e91fc8eae00760 
+2021-11-14 04:55:23,120 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a9301c8d39f1f97c9e91fc8eae00760
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:55:26,180 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a9301c8d39f1f97c9e91fc8eae00760
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:58:13,654 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:58:17,229 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:58:18,536 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:58:22,569 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:58:24,142 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:58:26,954 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:58:36,056 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb4956d1a14446b36ac210ba461effcd 
+2021-11-14 04:58:39,082 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb4956d1a14446b36ac210ba461effcd
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:58:42,088 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb4956d1a14446b36ac210ba461effcd
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 04:59:10,552 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 04:59:17,803 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 04:59:21,677 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 04:59:25,713 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 04:59:26,855 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 04:59:30,536 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 04:59:41,628 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51055}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 045b35fcee460a4aa819e3e6cbcae10b
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-11-14 04:59:44,709 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51055}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 045b35fcee460a4aa819e3e6cbcae10b
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 04:59:47,724 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51055}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 045b35fcee460a4aa819e3e6cbcae10b
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 05:02:13,518 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 05:02:23,251 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 05:02:24,631 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 05:02:28,652 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 05:02:30,424 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 05:02:33,668 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 05:02:44,768 ERROR [Log4j] addToCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"#pd_add_to_cart"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c5254179ab1bee735ae909247786905
+*** Element info: {Using=id, value=pd_add_to_cart} 
+2021-11-14 05:02:47,780 ERROR [Log4j] checkQuantityIncreasement() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":".oq-up.plus"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c5254179ab1bee735ae909247786905
+*** Element info: {Using=css selector, value=.oq-up.plus} 
+2021-11-14 05:02:50,833 ERROR [Log4j] deleteItemFromCartandCheck() HATA! Hata açıklaması : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EB1KGOL', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\ygz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c5254179ab1bee735ae909247786905
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-11-14 05:04:25,271 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 05:04:31,376 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 05:04:34,206 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 05:04:38,247 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 05:04:39,789 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 05:04:42,493 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 05:04:58,543 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 05:05:00,747 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 05:05:03,487 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 05:06:36,723 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 05:06:43,513 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 05:06:46,473 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 05:06:50,501 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 05:06:52,976 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 05:06:55,909 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 05:07:09,109 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 05:07:11,316 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 05:07:13,961 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
+2021-11-14 12:28:27,455 INFO  [Log4j] isOnMainPage() BAŞARILI 
+2021-11-14 12:28:31,631 INFO  [Log4j] loginAccount() BAŞARILI 
+2021-11-14 12:28:34,166 INFO  [Log4j] searchProducts() BAŞARILI 
+2021-11-14 12:28:38,201 INFO  [Log4j] scrollProductsPage() BAŞARILI 
+2021-11-14 12:28:40,394 INFO  [Log4j] showMoreProducts() BAŞARILI 
+2021-11-14 12:28:42,571 INFO  [Log4j] chooseProduct() BAŞARILI 
+2021-11-14 12:28:54,535 INFO  [Log4j] addToCartandCheck() BAŞARILI 
+2021-11-14 12:28:56,834 INFO  [Log4j] checkQuantityIncreasement() BAŞARILI 
+2021-11-14 12:28:59,518 INFO  [Log4j] deleteItemFromCartandCheck() BAŞARILI 
