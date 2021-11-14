@@ -32,7 +32,6 @@ public class Tests extends BaseTest{
     @Order(3)
     public void searchProducts(){
         homePage.searchBar().search("pantolon");
-//        Assertions.assertTrue(pantolonkotrolet,"urnuler bulunamadi");
     }
 
     @Test
