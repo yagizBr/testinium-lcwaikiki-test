@@ -36,7 +36,7 @@ public class ProductDetailPage extends BasePage{
        //ürünün sayfada ki tükenmemiş boyu bulunuyor
         else if(heightsCount > 0){
             for(int i=0;i<heightsCount;i++){
-                if(findAllElements(heightsLocator).get(i).getAttribute("class") != "disabled"){
+                if(findAllElements(heightsLocator).get(i).getAttribute("class") == ""){
                     findAllElements(heightsLocator).get(i).click();
                     break;
                 }
