@@ -61,7 +61,7 @@ public class Tests extends BaseTest{
         cartPage = new CartPage(driver);
         productDetailPage.addCart();
         Assertions.assertTrue(cartPage.checkPrice(),"Ürün sayfası ve sepet fiyatları farklı");
-        Assertions.assertTrue(cartPage.checkCart(),"Sepete Eklenemedi");//iki farkli testte yapilsa daha dogru olur gibi
+        Assertions.assertTrue(cartPage.checkCart(),"Sepete Eklenemedi");
     }
 
     @Test
@@ -72,7 +72,7 @@ public class Tests extends BaseTest{
 
     @Test
     @Order(10)
-    public void deleteItemFromCartandCheck() throws InterruptedException { //try-catch gerekli mi??
+    public void deleteItemFromCartandCheck() throws InterruptedException {
 
         Assertions.assertTrue(cartPage.deleteItem(),"Ürün sepetten silinemedi.");
 
