@@ -8,8 +8,8 @@ public class LoginPage extends BasePage{
     By passwordInputLocator = By.id("Password");
     By loginButtonLocator = By.id("loginLink");
     By loggedLocator = By.xpath("//span[text()='Hesabım']");
-    String userEmail = "ygzbarisir@gmail.com";
-    String userPassword = "testpassword123";
+    String userEmail = "email";
+    String userPassword = "password";
 
     public LoginPage(WebDriver driver) {
         super(driver);
